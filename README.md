@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Gabriel aka 'biignoisee'</h1>
+<h1 align="center">Hi 👋, I'm Omar Gabriel </h1>
 <h3 align="center">Passionate about startups, saas and backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biignoisee&label=Profile%20views&color=0e75b6&style=flat" alt="biignoisee" /> </p>
