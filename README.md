@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biignoisee" alt="biignoisee" /></a> </p>
 
+btw - new account - lose info past account
+
 - 🔭 I’m currently working on **---**
 
 - 🌱 I’m currently learning **Asp.Net, SqlServer, React**
