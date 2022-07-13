@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar 'biignoisee' Gabriel</h1>
-<h3 align="center">Passionate about startups, saas and backend development.</h3>
+<h3 align="center">Passionate about startups, saas and mobile development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biignoisee&label=Profile%20views&color=49d100&style=flat" alt="biignoisee" /> </p>
 
