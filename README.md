@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/biignoisee" target="blank"><img src="https://img.shields.io/twitter/follow/biignoisee?logo=twitter&style=for-the-badge" alt="biignoisee" /></a> </p>
 - btw, new account, lose info last account edit - 07/07/2022
+
 - 🔭 I’m currently working on [Saucyapp](---)
 
 - 🌱 I’m currently learning **kotlin, node js y springboot**
