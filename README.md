@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biignoisee&show_icons=true&theme=radical&title_color=ffffff&text_color=e0e0e0&locale=en" alt="biignoisee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biignoisee&" alt="biignoisee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biignoisee&theme=dark" alt="biignoisee" /></p>
