@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [NestJs](-)
 
-- 👨‍💻 All of my projects are available at [--](--)
+- 👨‍💻 All of my project are available at [--](--)
 
 - 📝 I regularly write articles on [---](---)
 
