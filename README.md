@@ -1,4 +1,5 @@
 <h1 align="center">Hola👋, soy Omar Gabriel</h1>
+
 - 🔭 Mi cuenta anterior [omargabrielaguilar](https://github.com/omargabrielaguilar)
 
 - 🌱 Trabajo con **Laravel, Php, Typescript**
