@@ -1,5 +1,5 @@
-<h1 align="center">Hola👋, I'm Omar Gabriel</h1>
-<h3 align="center">New account | I lost the last one due to authentication error.</h3>
+<h1 align="center">Hola👋, soy Omar Gabriel</h1>
+<h4align="center">nueva cuenta</h4>
 
 - 🔭 Mi cuenta anterior [omargabrielaguilar](https://github.com/omargabrielaguilar)
 
