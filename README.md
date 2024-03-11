@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, soy Omar Gabriel</h1>
-<h4>align="center">nueva cuenta</h4>
+<h4 align="center">nueva cuenta</h4>
 
 - 🔭 Mi cuenta anterior [omargabrielaguilar](https://github.com/omargabrielaguilar)
 
