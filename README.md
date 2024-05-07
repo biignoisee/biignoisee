@@ -4,7 +4,7 @@
 
 - 🌱 Trabajo con **Laravel, Php, Vue, .Net7**
 
-- 👨‍💻V [https://shorturl.at/ewBJQ](https://shorturl.at/ewBJQ)
+- 👨‍💻CV [https://shorturl.at/ewBJQ](https://shorturl.at/ewBJQ)
 
 - 💬 Experiencia **C#, .Net, Spring, Vue, Laravel**
 
