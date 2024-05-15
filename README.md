@@ -4,7 +4,7 @@
 - 🌱 Work with **Laravel, Php, Vue, .Net7**
 - 👨‍💻CV [https://shorturl.at/ewBJQ](https://shorturl.at/ewBJQ)
 - 💬 Experience with **C#, .Net, Vue, Laravel**
-
+- 💀 Programming everyday since 15/05 to ? dont know but im gonna be rich
 
 - See my work on Ecosac [omargabrielaguilar](https://gitlab.com/DesarrolladorTIEco2)
 - 📫 Email **omareegab@gmail.com**
