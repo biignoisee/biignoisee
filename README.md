@@ -10,7 +10,7 @@
 - 📫 Email **omareegab@gmail.com**
 
 
---> NOW BUILDING FULL SEO TOOLS
+- 💀 NOW BUILDING FULL SEO TOOLS
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
