@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omareegab@gmail.com**
 
-- ⚡ Fun fact **Lifting raod to 100kg ohp and 200kg deadlift**
+- ⚡ Fun fact **Lifting road to 100kg ohp and 200kg deadlift**
 
 - 👨‍💻 All of my projects are available at **[http://biignoisee.com](http://biignoisee.com)**
 
