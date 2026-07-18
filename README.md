@@ -1,9 +1,6 @@
 # Hi 👋, I'm Omar Gabriel
 
 ### Build software and automate processes.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biignoisee&label=Profile views&color=0e75b6&style=flat" alt="biignoisee" /> </p>
-
 - 🔭 I'm currently working on **AI-powered automated dating SaaS using n8n and Laravel (TALL stack), as well as in certain client projects.**
 
 - 🌱 I'm currently learning **n8n, neo4j and mcp process**
